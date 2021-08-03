@@ -1,0 +1,15 @@
+{
+  "name": "@shelex/gh-package-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "test package",
+  "author": "Shelex <ovr.shevtsov@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Shelex/gh-package-test.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/shelex"
+  }
+}
